@@ -4,9 +4,9 @@ OOP Game that tries to prove OOP isn't bad as Brian Will claims by attempting to
 Hopefully without OOP mistakes or mistakes in general :P
 
 ## OOP Logic used:
-A Game has 2 players and 1 Winning Coin Side (Face)\
-A Player has a name and a choice that he makes\
-A Coin has 2 Coin Faces (Sides), an Heads Face and a Tails Face
+* A Game has 2 players and 1 Winning Coin Side (Face)\
+* A Player has a name and a choice that he makes\
+* A Coin has 2 Coin Faces (Sides), an Heads Face and a Tails Face
 
 ## Long Algorithm (version used in code):
 * Step 1 -    Two Players join the game
